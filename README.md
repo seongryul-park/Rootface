@@ -6,4 +6,4 @@ The application is providing for runners' gradual pace enhancement and routes co
 
 ## Practice commitment
 - [ ] 이정준
-- [ ] 윤종호
+- [O] 윤종호
