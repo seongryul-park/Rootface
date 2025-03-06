@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "Rootface",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: build - Rootface",
+			"detail": "tsc -b && vite build"
+		},
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "Rootface",
+			"problemMatcher": [],
+			"label": "npm: dev - Rootface",
+			"detail": "vite",
+			"group": "build"
+		}
+	]
+}
